@@ -26,7 +26,7 @@ Software Engineer
 - Built an Appium suite automating typical usage scenarios to reproduce and analyze BLE connection drops, plus tooling to inspect the captured data.
 
 ### Gener-8 — FDA-Approved CPM Self-Rehabilitation Devices
-**Software Development & Hardware Design** · 2016 – Present
+**Software Development & Hardware Design** · 2016 – Present · Part-time
 
 *Second-generation system · in progress*
 - Redesigned the machine hardware around a Raspberry Pi system and developed multi-threaded firmware in Python.
