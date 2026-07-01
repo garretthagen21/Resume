@@ -23,7 +23,7 @@ Software Engineer
 
 **QA Engineer, Transmitter Team** · Aug 2020 – Aug 2021
 - Wrote automated tests exercising real-world usage scenarios between CGM transmitters and mobile apps over Bluetooth LE.
-- Built an Appium suite automating typical usage scenarios to reproduce and analyze BLE connection drops, plus tooling to analyze the captured data.
+- Built an Appium suite automating typical usage scenarios to reproduce and analyze BLE connection drops, plus tooling to inspect the captured data.
 
 ### Gener-8 — FDA-Approved CPM Self-Rehabilitation Devices
 **Software Development & Hardware Design** · 2016 – Present
@@ -39,7 +39,7 @@ Software Engineer
 *First-generation system*
 - Designed the circuitry and embedded software for an on-device angle-calculation system that streams real-time IMU measurements over Bluetooth LE.
 - Shipped the Gener-8 iOS app — machine communication, calibration, patient workout-data capture and storage, patient–therapist messaging, and rehab visualization and feedback.
-- Owned the full technical stack end-to-end, from circuit design and manufacturing to app development and App Store deployment.
+- Owned the full technical stack, from circuit design and manufacturing to app development and App Store deployment.
 
 ### Carnegie Robotics — Advanced Robotics Sensors & Platforms
 **Software Co-op** · 2018 – 2019
