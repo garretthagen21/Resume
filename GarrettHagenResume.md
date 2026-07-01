@@ -19,7 +19,7 @@ Software Engineer
 
 ### Dexcom Inc — Continuous Glucose Monitoring Systems
 **iOS Engineer, New Markets Team** · Aug 2021 – July 2022
-- Owned transmitter integration (G6 and G7) for the hospital CGM iOS app, maintaining and integrating Dexcom's existing Bluetooth LE / CoreBluetooth communication frameworks.
+- Owned transmitter integration (G6 and G7) for the hospital CGM iOS app, maintaining and integrating Dexcom's existing Bluetooth LE communication frameworks.
 - Built and improved areas of the patient onboarding flow.
 
 **QA Engineer, Transmitter Team** · Aug 2020 – Aug 2021
