@@ -6,6 +6,12 @@ Software Engineer
 
 ---
 
+## Summary
+
+iOS engineer specializing in Bluetooth LE across consumer, medical, and rehabilitation devices, with full-stack range from embedded firmware and circuit design to shipping App Store apps.
+
+---
+
 ## Experience
 
 ### Apple Inc — Apple TV App
