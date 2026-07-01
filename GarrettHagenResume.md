@@ -6,11 +6,6 @@ Software Engineer
 
 ---
 
-## Summary
-
-iOS engineer specializing in Bluetooth LE across consumer, medical, and rehabilitation devices, with full-stack range from embedded firmware and circuit design to shipping App Store apps.
-
----
 
 ## Experience
 
@@ -80,6 +75,12 @@ iOS engineer specializing in Bluetooth LE across consumer, medical, and rehabili
 - **OmniBot** (2020) — Omnidirectional capstone robot; built iOS app + BLE protocol for gesture, joystick, and autopilot control.
 - **Biometric Lock** (2019) — Swift iOS app over BLE to an Arduino-driven fingerprint scanner + solenoid lock; designed circuitry and custom enclosure.
 - **Industrial Arduino** (2017) — Custom PCB shield in Altium for a waterproof Arduino enclosure.
+
+---
+
+## Patents
+
+- **Durabat®** — baseball training device; designed and patented, used by professional players.
 
 ---
 
