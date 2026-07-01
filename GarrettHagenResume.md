@@ -46,6 +46,7 @@ Software Engineer
 - Created and maintained a sizeable C++ framework that reduced boilerplate for projects using stereo-camera functionality.
 - Built a C++ application assessing extrinsic/intrinsic calibration quality for MultiSense cameras using OpenCV, Ceres-Solver, Boost, and GTest.
 - Developed an interactive Qt/OpenCV C++ GUI for concurrent grayscale, color, and disparity streaming across all MultiSense camera models.
+- Also delivered embedded C firmware and Python tooling for MultiSense PCB verification, ROS/OpenCV data-collection utilities, and Dockerized build/deployment with CMake dependency management.
 
 ---
 
