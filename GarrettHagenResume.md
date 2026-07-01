@@ -11,7 +11,7 @@ Software Engineer
 ### Apple Inc — Apple TV App
 **iOS Software Engineer** · July 2022 – Present
 - Delivered Apple TV App functionality for Siri AI, Apple's new Apple Intelligence–powered assistant, collaborating across the AI/ML and Siri teams.
-- Own the Apple TV App widget, maintaining it and shipping new features across iOS, tvOS, macOS, and visionOS.
+- Own the Apple TV App widget across iOS, tvOS, macOS, and visionOS, shipping new features and improvements.
 - Built client support for TV App features including condensed and full sports replays and partner-app integration features.
 - Designed and own the client instrumentation that measures app launch and page-load performance and reports UI events across the TV App.
 - Led the UI and data-modeling layer for an upcoming iOS feature (under NDA).
