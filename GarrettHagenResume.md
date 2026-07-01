@@ -29,8 +29,8 @@ Software Engineer
 **Software Development & Hardware Design** · 2016 – Present
 
 *Second-generation system · in progress*
-- Redesigned the machine hardware around a Raspberry Pi system and rewrote the firmware in Python, adding real-time calibration offsets and improved LED feedback.
-- Built an extensive Bluetooth LE feature set into the firmware: headless Wi-Fi configuration, wireless firmware updates, motor-speed control, sensor-state reading, rep counting, and task-progress updates.
+- Redesigned the machine hardware around a Raspberry Pi system and rewrote the firmware from scratch in Python.
+- Added real-time calibration offsets, improved LED feedback, and an extensive Bluetooth LE feature set: headless Wi-Fi configuration, wireless firmware updates, motor-speed control, sensor-state reading, rep counting, and task-progress updates.
 - Migrating the app's client logic to defined Firebase Cloud Functions endpoints to centralize business logic and thin the client.
 - Moving the codebase from CocoaPods to Swift Package Manager, splitting shared code into reusable Gener-8 packages consumed by both the factory-setup and production apps.
 - Wrote Python admin tools and manufacturing software for the platform, spanning system database administration and Raspberry Pi device provisioning.
