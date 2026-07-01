@@ -13,7 +13,7 @@ Software Engineer
 - Delivered Apple TV App functionality for Siri AI, Apple's new Apple Intelligence–powered assistant, collaborating across the AI/ML and Siri teams.
 - Own the Apple TV App widget across iOS, tvOS, macOS, and visionOS, shipping new features and improvements.
 - Built client support for TV App features including condensed and full sports replays and partner-app integration features.
-- Designed and own the client instrumentation that measures app launch and page-load performance and reports UI events across the TV App.
+- Own the client instrumentation that measures app launch and page-load performance and reports UI events across the TV App, and refactored it to adopt standardized internal frameworks.
 - Led the UI and data-modeling layer for an upcoming iOS feature (under NDA).
 
 ### Dexcom Inc — Continuous Glucose Monitoring Systems
