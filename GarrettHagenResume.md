@@ -55,7 +55,7 @@ Software Engineer
 
 - **Languages:** Swift, Python, Objective-C, TypeScript, Java, C++
 - **iOS / Frameworks:** CoreBluetooth (BLE), SwiftUI, UIKit, WidgetKit, AppIntents, Firebase, Xcode
-- **Tools:** Git, CMake, Appium, JUnit, AutoDesk Inventor, Claude Code (agentic dev)
+- **Tools:** Git, CMake, Appium, JUnit, AutoDesk Inventor, Claude Code
 - **Platforms:** iOS, tvOS, macOS, visionOS, Linux
 
 ---
