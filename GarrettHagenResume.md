@@ -71,10 +71,10 @@ Software Engineer
 
 ## Projects + Open Source
 
-- **wpa-pyfi** (2021) — Open-source Python package to manage Raspberry Pi Wi-Fi via CLI or library. Published on PyPI.
-- **OmniBot** (2020) — Omnidirectional capstone robot; built iOS app + BLE protocol for gesture, joystick, and autopilot control.
-- **Biometric Lock** (2019) — Swift iOS app over BLE to an Arduino-driven fingerprint scanner + solenoid lock; designed circuitry and custom enclosure.
-- **Industrial Arduino** (2017) — Custom PCB shield in Altium for a waterproof Arduino enclosure.
+- **wpa-pyfi** (2021) — Open-source Python package to programmatically manage Raspberry Pi Wi-Fi connections and settings from the CLI or as a library. Published on PyPI.
+- **OmniBot** (2020) — Omnidirectional robot built with a student-led team for a senior capstone. Developed the iOS app and a Bluetooth LE control protocol supporting gesture-recognition, joystick, and autopilot control.
+- **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
+- **Industrial Arduino** (2017) — Custom PCB shield designed in Altium Designer for a waterproof, industrial Arduino enclosure.
 
 ---
 
