@@ -1,0 +1,101 @@
+# Garrett Hagen
+
+Software Engineer
+
+📧 [garretthagen21@gmail.com](mailto:garretthagen21@gmail.com) · 🐙 [github.com/garretthagen21](https://github.com/garretthagen21) · 📱 (412) 897-5699 · 📍 San Diego, CA
+
+---
+
+
+## Experience
+
+### Apple Inc — Apple TV App
+**iOS Software Engineer** · July 2022 – Present
+- Delivered Apple TV App functionality for Apple Intelligence–powered Siri through cross-org collaboration with the Siri and Intents frameworks teams.
+- Own the TV Home Screen widget, shipping new features and improvements across Apple platforms.
+- Built client support for TV App features, including condensed and full sports replays and partner-app integration features.
+- Own the client instrumentation that measures app launch and page-load performance and reports UI events across the TV App, refactoring it to adopt standardized internal frameworks.
+- Led the UI and data-modeling layer for an upcoming iOS feature.
+
+### Dexcom Inc — Continuous Glucose Monitoring Systems
+**iOS Engineer, New Markets Team** · Aug 2021 – July 2022
+- Owned transmitter integration (G6 and G7) for the hospital CGM iOS app, maintaining and integrating Dexcom's existing Bluetooth LE communication frameworks.
+- Built and improved areas of the patient onboarding flow.
+
+**QA Engineer, Transmitter Team** · Aug 2020 – Aug 2021
+- Wrote automated tests exercising real-world usage scenarios between CGM transmitters and mobile apps over Bluetooth LE.
+- Built an Appium suite automating typical usage scenarios to reproduce and analyze BLE connection drops, plus tooling to inspect the captured data.
+
+### Gener-8 — FDA-Approved CPM Self-Rehabilitation Devices
+**Software Development & Hardware Design** · 2016 – Present · Part-time
+
+*Second-generation system · in progress*
+- Redesigned the machine hardware around a Raspberry Pi system and developed multi-threaded firmware in Python.
+- Added real-time calibration offsets, improved LED feedback, and an extensive Bluetooth LE feature set: headless Wi-Fi configuration, wireless firmware updates, motor-speed control, sensor-state reading, rep counting, and task-progress updates.
+- Migrating the app's client logic to defined Firebase Cloud Functions endpoints to centralize business logic and thin the client.
+- Moving the codebase from CocoaPods to Swift Package Manager, splitting shared code into reusable Gener-8 packages consumed by both the factory-setup and production apps.
+- Wrote Python admin tools and manufacturing software for the platform, spanning system database administration and Raspberry Pi device provisioning.
+- Built an agentic development harness (Ralph loop) coordinating multiple Claude agents across the BLE peripheral and a paired iOS device — one SSHing into the Gener-8 to tail logs and run commands, another driving and monitoring the iOS app — enabling automated, remote development and debugging.
+
+*First-generation system*
+- Designed the circuitry and embedded software for an on-device angle-calculation system that streams real-time IMU measurements over Bluetooth LE.
+- Shipped the Gener-8 iOS app — machine communication, calibration, patient workout-data capture and storage, patient–therapist messaging, and rehab visualization and feedback.
+- Owned the full technical stack, from circuit design and manufacturing to app development and App Store deployment.
+
+### Carnegie Robotics — Advanced Robotics Sensors & Platforms
+**Software Co-op** · 2018 – 2019
+- Created and maintained a sizeable C++ framework that reduced boilerplate for projects using stereo-camera functionality.
+- Built a C++ application assessing extrinsic/intrinsic calibration quality for MultiSense cameras using OpenCV, Ceres-Solver, Boost, and GTest.
+- Developed an interactive Qt/OpenCV C++ GUI for concurrent grayscale, color, and disparity streaming across all MultiSense camera models.
+- Contributed embedded C firmware and Python tooling for MultiSense PCB verification, ROS/OpenCV data-collection utilities, and Docker/CMake build and deployment improvements.
+
+---
+
+## Skills
+
+- **Languages:** Swift, Python, Objective-C, TypeScript, Java, C++
+- **iOS / Frameworks:** SwiftUI, UIKit, WidgetKit, AppIntents, CoreBluetooth, Firebase, Xcode
+- **Tools:** Git, CMake, Appium, JUnit, AutoDesk Inventor, Claude Code
+- **Platforms:** iOS, tvOS, macOS, visionOS, Linux
+
+---
+
+## Education
+
+### University of Pittsburgh
+**BS, Computer Engineering** · 2016 – 2020
+- Major GPA 3.82 · Cumulative 3.55
+- Engineering Dean's Honor List (2017–2020)
+
+---
+
+## Projects + Open Source
+
+- **wpa-pyfi** (2021) — Open-source Python package that adapts and extends an existing framework to programmatically manage Raspberry Pi Wi-Fi connections and settings from the CLI or as a library. Published on PyPI.
+- **OmniBot** (2020) — Omnidirectional robot built with a student-led team for a senior capstone. Developed the iOS app and Bluetooth LE control protocol (joystick, autopilot, and gesture control), training an on-device image-recognition model on hand gestures that drove the robot from the phone's camera feed.
+- **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
+- **Industrial Arduino** (2017) — Custom PCB shield designed in Altium Designer for a waterproof, industrial Arduino enclosure.
+
+---
+
+## Patents
+
+- **Durabat®** — baseball training device; designed and patented, used by professional players.
+
+---
+
+## Volunteering
+
+- **HCEF Instructor** (2019–2020) — Taught basic computer science to middle-school students experiencing homelessness.
+
+<!--
+Stashed earlier roles (removed to keep one page; restore if needed):
+
+### iRevive — Mobile Phone & Computer Repair
+Founder · 2013 – 2020
+- Self-taught technician with 200+ successful repairs.
+
+### For You Inc — Manufacturer of Duraband® & Exercise Devices
+Product Designer · 2012 – 2015
+- Designed and patented the Durabat® baseball training device, used by multiple professional players.
+-->
