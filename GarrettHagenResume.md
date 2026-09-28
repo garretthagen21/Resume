@@ -56,6 +56,7 @@ Software Engineer
 - **Languages:** Swift, Python, Objective-C, TypeScript, Java, C++
 - **iOS / Frameworks:** SwiftUI, UIKit, WidgetKit, AppIntents, CoreBluetooth, Firebase, Xcode
 - **Tools:** Git, CMake, Appium, JUnit, AutoDesk Inventor, Claude Code
+- **Creative Tools:** Logic Pro, GarageBand, Resolume, CapCut, Canva
 - **Platforms:** iOS, tvOS, macOS, visionOS, Linux
 
 ---
@@ -71,11 +72,10 @@ Software Engineer
 
 ## Projects + Open Source
 
-- **VizRock** (2026) — Raspberry Pi show controller that drives a custom stage production from MIDI footswitch cues, launching Resolume visuals over OSC and controlling peripheral LED lighting through ESP32 nodes over ESP-NOW, all managed from a browser UI. Built with Claude Code agents working across the Pi app and firmware repos.
+- **VizRock** (2026) — Raspberry Pi show controller that drives the stage production for my band from MIDI footswitch cues, launching Resolume visuals over OSC and controlling peripheral LED lighting through ESP32 nodes over ESP-NOW, all managed from a browser UI. Built with Claude Code agents across the Pi app and firmware.
 - **wpa-pyfi** (2021) — Open-source Python package that adapts and extends an existing framework to programmatically manage Raspberry Pi Wi-Fi connections and settings from the CLI or as a library. Published on PyPI.
 - **OmniBot** (2020) — Omnidirectional robot built with a student-led team for a senior capstone. Developed the iOS app and Bluetooth LE control protocol (joystick, autopilot, and gesture control), training an on-device image-recognition model on hand gestures that drove the robot from the phone's camera feed.
 - **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
-- **Industrial Arduino** (2017) — Custom PCB shield designed in Altium Designer for a waterproof, industrial Arduino enclosure.
 
 ---
 
@@ -91,6 +91,9 @@ Software Engineer
 
 <!--
 Stashed earlier roles (removed to keep one page; restore if needed):
+
+## Projects + Open Source
+- **Industrial Arduino** (2017) — Custom PCB shield designed in Altium Designer for a waterproof, industrial Arduino enclosure.
 
 ### iRevive — Mobile Phone & Computer Repair
 Founder · 2013 – 2020
