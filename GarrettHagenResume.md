@@ -71,6 +71,7 @@ Software Engineer
 
 ## Projects + Open Source
 
+- **VizRock** (2026) — Raspberry Pi show controller turning MIDI footswitch cues into a synced live show — Resolume visuals (OSC), DMX lighting (Art-Net), and wearable LED rings — run from a browser UI. Wrote the Python asyncio cue engine and C++ ESP32 firmware relaying a custom ESP-NOW light protocol to multi-zone LED nodes.
 - **wpa-pyfi** (2021) — Open-source Python package that adapts and extends an existing framework to programmatically manage Raspberry Pi Wi-Fi connections and settings from the CLI or as a library. Published on PyPI.
 - **OmniBot** (2020) — Omnidirectional robot built with a student-led team for a senior capstone. Developed the iOS app and Bluetooth LE control protocol (joystick, autopilot, and gesture control), training an on-device image-recognition model on hand gestures that drove the robot from the phone's camera feed.
 - **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
