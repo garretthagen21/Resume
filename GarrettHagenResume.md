@@ -35,11 +35,11 @@ Software Engineer
 - Migrating the app's client logic to defined Firebase Cloud Functions endpoints to centralize business logic and thin the client.
 - Moving the codebase from CocoaPods to Swift Package Manager, splitting shared code into reusable Gener-8 packages consumed by both the factory-setup and production apps.
 - Wrote Python admin tools and manufacturing software for the platform, spanning system database administration and Raspberry Pi device provisioning.
-- Built an agentic development harness (Ralph loop) coordinating multiple Claude agents across the BLE peripheral and a paired iOS device — one SSHing into the Gener-8 to tail logs and run commands, another driving and monitoring the iOS app — enabling automated, remote development and debugging.
+- Built an agentic development harness (Ralph loop) coordinating multiple Claude agents across the BLE peripheral and a paired iOS device. One agent SSHes into the Gener-8 to tail logs and run commands while another drives and monitors the iOS app, enabling automated, remote development and debugging.
 
 *First-generation system*
 - Designed the circuitry and embedded software for an on-device angle-calculation system that streams real-time IMU measurements over Bluetooth LE.
-- Shipped the Gener-8 iOS app — machine communication, calibration, patient workout-data capture and storage, patient–therapist messaging, and rehab visualization and feedback.
+- Shipped the Gener-8 iOS app, covering machine communication, calibration, patient workout-data capture and storage, patient–therapist messaging, and rehab visualization and feedback.
 - Owned the full technical stack, from circuit design and manufacturing to app development and App Store deployment.
 
 ### Carnegie Robotics — Advanced Robotics Sensors & Platforms
@@ -81,7 +81,7 @@ Software Engineer
 
 ## Patents
 
-- **Durabat®** — baseball training device; designed and patented, used by professional players.
+- Designed and patented the **Durabat®** baseball training device, used by professional players.
 
 ---
 
