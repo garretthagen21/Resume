@@ -55,7 +55,7 @@ Software Engineer
 
 ### Fight The Neighborhood
 **Present**
-- Lead stage production, content and live visuals for our original band, running Resolume cued by VizRock.
+- Lead stage production, content and live visuals for our original band, running Resolume cued by VizRock, and track our demos in Logic Pro.
 
 ### Orchards
 - Led stage production, content and merch in Canva and CapCut for one of San Diego's biggest cover bands, regularly selling out The Holding Company.
