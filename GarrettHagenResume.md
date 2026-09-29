@@ -69,7 +69,7 @@ Software Engineer
 
 ---
 
-## Music + Stage Production
+## Creative Work
 
 Lead stage production, content and merch for my bands Fight The Neighborhood and Orchards, one of San Diego's biggest cover bands. Run live visuals in Resolume cued by VizRock, design in Canva and CapCut, and track demos in Logic Pro.
 
