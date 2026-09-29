@@ -55,11 +55,10 @@ Software Engineer
 
 ### Fight The Neighborhood
 **Present**
-- Lead stage production and content for our new original band, and VJ the live show in Resolume, cued by VizRock. First single recorded and releasing soon.
+- Lead stage production, content and live visuals for our original band, running Resolume cued by VizRock.
 
 ### Orchards
-- Band of mostly Apple engineers that became one of San Diego's biggest cover bands in 2.5 years, regularly selling out The Holding Company (250+) and booked by management for its biggest nights, including Halloween.
-- Led stage production, content, and merch design and fulfillment, making posters, live visuals and skits in Canva and CapCut. Staff called our Lost In Time show one of the most unique the venue had seen.
+- Led stage production, content and merch in Canva and CapCut for one of San Diego's biggest cover bands, regularly selling out The Holding Company.
 
 ---
 
@@ -77,6 +76,7 @@ Software Engineer
 - **VizRock** (2026) — Raspberry Pi show controller that runs Fight The Neighborhood's live show from MIDI footswitch cues, launching Resolume visuals over OSC and controlling peripheral LED lighting through ESP32 nodes over ESP-NOW, all managed from a browser UI. Developed with Claude Code agents across the Pi app and firmware.
 - **wpa-pyfi** (2021) — Open-source Python package that adapts and extends an existing framework to programmatically manage Raspberry Pi Wi-Fi connections and settings from the CLI or as a library. Published on PyPI.
 - **OmniBot** (2020) — Omnidirectional robot built with a student-led team for a senior capstone. Developed the iOS app and Bluetooth LE control protocol (joystick, autopilot, and gesture control), training an on-device image-recognition model on hand gestures that drove the robot from the phone's camera feed.
+- **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
 
 ---
 
@@ -101,7 +101,6 @@ Stashed earlier sections (removed to keep one page; restore if needed):
 - **Platforms:** iOS, tvOS, macOS, visionOS, Linux
 
 ## Projects + Open Source
-- **Biometric Lock** (2019) — Swift iOS app communicating over Bluetooth LE with an Arduino-driven fingerprint scanner and solenoid lock. Designed all software and circuitry and rendered a custom enclosure mounted in the door frame.
 - **Industrial Arduino** (2017) — Custom PCB shield designed in Altium Designer for a waterproof, industrial Arduino enclosure.
 
 ### iRevive — Mobile Phone & Computer Repair
