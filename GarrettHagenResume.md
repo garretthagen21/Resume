@@ -31,6 +31,7 @@ Software Engineer
 
 *Second-generation system · in progress*
 - Built an agentic development harness (Ralph loop) coordinating multiple Claude agents across the BLE peripheral and a paired iOS device. One agent SSHes into the Gener-8 to tail logs and run commands while another drives and monitors the iOS app, enabling automated, remote development and debugging.
+- Refactored the Gener-8 website using agentic, AI-assisted engineering workflows.
 - Redesigned the machine hardware around a Raspberry Pi system and developed multi-threaded firmware in Python.
 - Added real-time calibration offsets, improved LED feedback, and an extensive Bluetooth LE feature set: headless Wi-Fi configuration, wireless firmware updates, motor-speed control, sensor-state reading, rep counting, and task-progress updates.
 - Migrating the app's client logic to defined Firebase Cloud Functions endpoints to centralize business logic and thin the client.
