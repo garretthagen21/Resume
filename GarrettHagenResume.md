@@ -73,7 +73,7 @@ Software Engineer
 
 ## Music + Art
 
-Lead stage production, content and merch for my San Diego bands, including a cover band selling out 300-capacity venues. Run live visuals in Resolume cued by VizRock, design in Canva and CapCut, and track and arrange demos in Logic Pro.
+Lead stage production, content and merch for my San Diego bands, which sell out 300-capacity venues. Run live visuals in Resolume cued by VizRock, design in Canva and CapCut, and track and arrange demos in Logic Pro.
 
 ---
 
