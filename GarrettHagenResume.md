@@ -13,7 +13,7 @@ Software Engineer
 **iOS Software Engineer** · July 2022 – Present
 - Delivered Apple TV App functionality for Apple Intelligence–powered Siri through cross-org collaboration with the Siri and Intents frameworks teams.
 - Own the TV Home Screen widget, shipping new features and improvements across Apple platforms.
-- Built client support for TV App features, including condensed and full sports replays and partner-app integration features.
+- Built client support for TV App features, including condensed and full sports replays and partner-app integrations.
 - Own the client instrumentation that measures app launch and page-load performance and reports UI events across the TV App, refactoring it to adopt standardized internal frameworks.
 - Led the UI and data-modeling layer for an upcoming iOS feature.
 
@@ -46,7 +46,7 @@ Software Engineer
 ### Carnegie Robotics — Advanced Robotics Sensors & Platforms
 **Software Co-op** · 2018 – 2019
 - Created and maintained a sizeable C++ framework that reduced boilerplate for projects using stereo-camera functionality.
-- Built a C++ application assessing extrinsic/intrinsic calibration quality for MultiSense cameras using OpenCV, Ceres-Solver, Boost, and GTest.
+- Built a C++ application assessing extrinsic/intrinsic calibration quality for MultiSense cameras using OpenCV, Ceres Solver, Boost, and GTest.
 - Developed an interactive Qt/OpenCV C++ GUI for concurrent grayscale, color, and disparity streaming across all MultiSense camera models.
 - Contributed embedded C firmware and Python tooling for MultiSense PCB verification, ROS/OpenCV data-collection utilities, and Docker/CMake build and deployment improvements.
 
@@ -73,7 +73,7 @@ Software Engineer
 
 ## Music + Art
 
-Lead stage production, content and merch for my bands. Use VizRock to cue Resolume visuals and stage lighting in sync with the music at 250+ capacity shows, design in Canva and CapCut, and track and arrange demos in Logic Pro.
+Lead stage production, content, and merch for my bands. Use VizRock to cue Resolume visuals and stage lighting in sync with the music at 250+ capacity shows, design in Canva and CapCut, and track and arrange demos in Logic Pro.
 
 ---
 
