@@ -73,7 +73,7 @@ Software Engineer
 
 ## Music + Art
 
-Lead stage production, content and merch for my bands. Run live visuals in Resolume cued by VizRock, design in Canva and CapCut, and track and arrange demos in Logic Pro.
+Lead stage production, content and merch for my bands. Use VizRock to cue Resolume visuals and stage lighting in sync with the music at 250+ capacity shows, design in Canva and CapCut, and track and arrange demos in Logic Pro.
 
 ---
 
