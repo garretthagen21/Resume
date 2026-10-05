@@ -34,8 +34,8 @@ Software Engineer
 - Refactored the Gener-8 website using agentic, AI-assisted engineering workflows.
 - Redesigned the machine hardware around a Raspberry Pi system and developed multi-threaded firmware in Python.
 - Added real-time calibration offsets, improved LED feedback, and an extensive Bluetooth LE feature set: headless Wi-Fi configuration, wireless firmware updates, motor-speed control, sensor-state reading, rep counting, and task-progress updates.
-- Migrating the app's client logic to defined Firebase Cloud Functions endpoints to centralize business logic and thin the client.
-- Moving the codebase from CocoaPods to Swift Package Manager, splitting shared code into reusable Gener-8 packages consumed by both the factory-setup and production apps.
+- Moved the app's client logic behind Firebase Cloud Functions endpoints, centralizing business logic and thinning the client.
+- Migrated the codebase from CocoaPods to Swift Package Manager, splitting shared code into reusable Gener-8 packages used by both the factory-setup and production apps.
 - Wrote Python admin tools and manufacturing software for the platform, spanning system database administration and Raspberry Pi device provisioning.
 
 *First-generation system*
