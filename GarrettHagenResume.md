@@ -9,7 +9,7 @@ Software Engineer
 
 ## Experience
 
-### Apple Inc — Apple TV App
+### Apple Inc — TV App
 **iOS Software Engineer** · July 2022 – Present
 - Delivered Apple TV App functionality for Apple Intelligence–powered Siri through cross-org collaboration with the Siri and Intents frameworks teams.
 - Own the TV Home Screen widget, shipping new features and improvements across Apple platforms.
