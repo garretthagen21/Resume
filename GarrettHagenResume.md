@@ -26,7 +26,7 @@ Software Engineer
 - Wrote automated tests exercising real-world usage scenarios between CGM transmitters and mobile apps over Bluetooth LE.
 - Built an Appium suite automating typical usage scenarios to reproduce and analyze BLE connection drops, plus tooling to inspect the captured data.
 
-### Gener-8 — FDA-Approved CPM Self-Rehabilitation Devices
+### Gener-8 — FDA-Cleared CPM Self-Rehabilitation Devices
 **Software Development & Hardware Design** · 2016 – Present · Part-time
 
 *Second-generation system · in progress*
